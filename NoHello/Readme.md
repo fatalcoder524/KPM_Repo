@@ -11,6 +11,13 @@ All Rights belong to the original developer! I'm just keeping this for my person
 
 # Changelogs
 
+## Nohello-v1.8.2.9-77-4dc2fa2-release.kpm
+- Added alternative for finding PAGE_SHIFT/PAGE_SZ in kernel (tcr_el1 & tg1).
+
+## Nohello-v1.8.2.9-76-4cab50e-release.kpm
+- Fix kernels 4.14.x/4.4.x compatibility issue, use _text and fallback to _stext when not found.
+- Fix mistake when looking in fallback for analysing mmap_write_lock_killable/mmap_write_unlock directly (affects kernels 6.12.x+)
+
 ## Nohello-v1.8.2.9-72-7ec38ce-release.kpm
 - Fix compat with KernelPatch 0.12.4 (from now on, supports only 0.12.4+)
 - Thanks to @ ec_curve for making sure it's only 0.12.4+

@@ -7,4 +7,4 @@ All Rights belong to the original developer! I'm just keeping this for my person
 # List of KPMs
 |KPM Name  | No. of KPMs available |
 |--|--|
-| NoHello | 3 |
+| NoHello | 5 |
