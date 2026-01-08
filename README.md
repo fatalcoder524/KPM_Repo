@@ -8,3 +8,4 @@ All Rights belong to the original developer! I'm just keeping this for my person
 |KPM Name  | No. of KPMs available |
 |--|--|
 | NoHello | 5 |
+| HMA++ | 2 |
