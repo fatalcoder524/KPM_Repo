@@ -7,6 +7,11 @@ KPMs are normally released in his Telegram channel:https://t.me/mizhipindao and 
 
 All Rights belong to the original developer! I'm just keeping this for my personal use or quick indexing and sharing. 
 
+## Note:
+- This module is not a complete replacement for HMA / HMA OSS. 
+- This module doesn't solve Unicode and ZWC detection.
+- Use HMA OSS vold app data isolation to fix Fuse Stat detection.
+
 # Changelogs
 
 ## HMA++_0.0.3.kpm
