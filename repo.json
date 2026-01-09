@@ -59,5 +59,23 @@
         "type": "release"
       }
     ]
+  },
+  {
+    "id": "critical_partition_protect",
+    "name": "Anti Format Critical Partition",
+    "author": "1f2003d5 & sekaiacg",
+    "support": "",
+    "channel": "https://t.me/apatch_discuss",
+    "description": "Critical Partitions Protect is a KPM used to protect your partitions from harmful apps and modules which try to modify and format system partitions.",
+    "kernel_support": [
+      "4.4", "4.9", "4.14", "4.19", "5.4", "5.10", "5.15", "6.1", "6.6", "6.12"
+    ],
+    "links": [
+      {
+        "version": "1.1",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/Critical_Partitions_Protect/critical_partition_protect_1.1.kpm",
+        "type": "release"
+      }
+    ]
   }
 ]
