@@ -1,0 +1,63 @@
+[
+  {
+    "id": "nohello",
+    "name": "NoHello",
+    "author": "MhmRdd",
+    "support": "",
+    "channel": "https://t.me/welikeandroid",
+    "description": "A good hiding module for Apatch and KPN users.",
+    "kernel_support": [
+      "4.4", "4.9", "4.14", "4.19", "5.4", "5.10", "5.15", "6.1", "6.6", "6.12"
+    ],
+    "links": [
+      {
+        "version": "v1.8.2.9-70-b7c5677",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/NoHello/Nohello-v1.8.2.9-70-b7c5677-release.kpm",
+        "type": "release"
+      },
+      {
+        "version": "v1.8.2.9-71-796a067",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/NoHello/Nohello-v1.8.2.9-71-796a067-release.kpm",
+        "type": "release"
+      },
+      {
+        "version": "v1.8.2.9-72-7ec38ce",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/NoHello/Nohello-v1.8.2.9-72-7ec38ce-release.kpm",
+        "type": "release"
+      },
+      {
+        "version": "v1.8.2.9-76-4cab50e",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/NoHello/Nohello-v1.8.2.9-76-4cab50e-release.kpm",
+        "type": "release"
+      },
+      {
+        "version": "v1.8.2.9-77-4dc2fa2",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/NoHello/Nohello-v1.8.2.9-77-4dc2fa2-release.kpm",
+        "type": "release"
+      }
+    ]
+  },
+  {
+    "id": "hmaplusplus",
+    "name": "HMA++",
+    "author": "lshwjgpt25",
+    "support": "",
+    "channel": "https://t.me/mizhichat",
+    "description": "HMA++ is a KPM used to hide paths like /storage/emulated/0/Android/data/ and acts as an addon to HMA.",
+    "kernel_support": [
+      "4.4", "4.9", "4.14", "4.19", "5.4", "5.10", "5.15", "6.1", "6.6", "6.12"
+    ],
+    "links": [
+      {
+        "version": "0.0.2",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/HMA++/HMA++_0.0.2.kpm",
+        "type": "release"
+      },
+      {
+        "version": "0.0.3",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/HMA++/HMA++_0.0.3.kpm",
+        "type": "release"
+      }
+    ]
+  }
+]
