@@ -1,7 +1,7 @@
 # HMA++
 HMA++ is a KPM used to hide paths like /storage/emulated/0/Android/data/ and acts as an addon Addon to HMA developed by @lshwjgpt
 
-Follow him and Support him in GitHub Here: https://github.com/lshwjgpt
+Follow him and Support him in GitHub Here: https://github.com/lshwjgpt25
 
 KPMs are normally released in his Telegram channel:https://t.me/mizhipindao and TG Group:https://t.me/mizhichat
 
