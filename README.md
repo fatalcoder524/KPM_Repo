@@ -10,3 +10,4 @@ All Rights belong to the original developer! I'm just keeping this for my person
 | NoHello | 5 |
 | HMA++ | 2 |
 | Critical_Partitions_Protect | 1 |
+| Host File Redirect | 1 |

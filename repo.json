@@ -77,5 +77,23 @@
         "type": "release"
       }
     ]
+  },
+  {
+    "id": "hosts_file_redirect",
+    "name": "Host File Redirect",
+    "author": "sekaiacg",
+    "support": "",
+    "channel": "https://t.me/apatch_discuss",
+    "description": "Host File Redirect is KPM uses similar or same concept of SusFS feature of susfs_open_redirect to redirect all syscalls from /system/etc/hosts to /data/adb/hosts.",
+    "kernel_support": [
+      "4.4", "4.9", "4.14", "4.19", "5.4", "5.10", "5.15", "6.1", "6.6", "6.12"
+    ],
+    "links": [
+      {
+        "version": "1.1.8",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/Host_File_Redirect/hosts_file_redirect_1.1.8.kpm",
+        "type": "release"
+      }
+    ]
   }
 ]
