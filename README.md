@@ -7,7 +7,7 @@ All Rights belong to the original developer! I'm just keeping this for my person
 # List of KPMs
 |KPM Name  | No. of KPMs available |
 |--|--|
-| NoHello | 5 |
+| NoHello | 7 |
 | HMA++ | 2 |
 | Critical_Partitions_Protect | 1 |
 | Host File Redirect | 1 |

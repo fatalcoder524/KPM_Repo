@@ -11,6 +11,15 @@ All Rights belong to the original developer! I'm just keeping this for my person
 
 # Changelogs
 
+## Nohello-v1.8.2.9-80-35888e6-release.kpm
+- Do not restrict kpm when kernel version is not supporting unicode/ext4
+- Added resolution of 'kallsyms_lookup_size_offset'
+- Guard the patch against overflow of table size.
+
+## Nohello-v1.8.2.9-79-dd44e4e-release.kpm
+- Added unicode patch: "Don't use case ignorable code points". (CVE-2024-43093)
+NOTE: This patch takes effect only when embedding KPM, it's not possible to patch the kernel live when unicode mappings are being populated.
+
 ## Nohello-v1.8.2.9-77-4dc2fa2-release.kpm
 - Added alternative for finding PAGE_SHIFT/PAGE_SZ in kernel (tcr_el1 & tg1).
 

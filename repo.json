@@ -34,6 +34,16 @@
         "version": "v1.8.2.9-77-4dc2fa2",
         "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/NoHello/Nohello-v1.8.2.9-77-4dc2fa2-release.kpm",
         "type": "release"
+      },
+      {
+        "version": "v1.8.2.9-79-dd44e4e",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/NoHello/Nohello-v1.8.2.9-79-dd44e4e-release.kpm",
+        "type": "release"
+      },
+      {
+        "version": "v1.8.2.9-80-35888e6",
+        "link": "https://github.com/fatalcoder524/KPM_Repo/raw/refs/heads/main/NoHello/Nohello-v1.8.2.9-80-35888e6-release.kpm",
+        "type": "release"
       }
     ]
   },
